@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧠 Deep Learning — Neural Network Architectures
+# 🧠 Deep Learning: Neural Network Architectures
 
-**Six core neural network architectures, built and trained end to end — ANN, CNN, LSTM, Self-Organizing Maps, Boltzmann Machines and AutoEncoders — with TensorFlow/Keras and PyTorch.**
+**Six core neural network architectures, built and trained end to end (ANN, CNN, LSTM, Self-Organizing Maps, Boltzmann Machines and AutoEncoders) with TensorFlow/Keras and PyTorch.**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-FF6F00?logo=tensorflow&logoColor=white)
@@ -16,16 +16,16 @@
 
 ## 🎯 What's inside
 
-Each notebook takes one architecture from raw data to a working model on a real-world problem — customer churn, image classification, stock-price forecasting, fraud detection and movie recommendation.
+Each notebook takes one architecture from raw data to a working model on a real-world problem: customer churn, image classification, stock-price forecasting, fraud detection and movie recommendation.
 
 | # | Architecture | Type | Problem solved | Framework | Data |
 |---|---|---|---|---|---|
-| 1 | [Artificial Neural Network (ANN)](1.%20ANN/artificial_neural_network.ipynb) | Supervised | Predict which bank customers will churn — encoding, scaling, a deep ANN, confusion matrix | TensorFlow / Keras | `Churn_Modelling.csv` (included) |
-| 2 | [Convolutional Neural Network (CNN)](2.%20CNN/convolutional_neural_network.ipynb) | Supervised | Classify cat vs. dog images — image augmentation, convolution, pooling, single-image prediction | TensorFlow / Keras | Cats & dogs images ([Kaggle](https://www.kaggle.com/c/dogs-vs-cats)) |
+| 1 | [Artificial Neural Network (ANN)](1.%20ANN/artificial_neural_network.ipynb) | Supervised | Predict which bank customers will churn: encoding, scaling, a deep ANN, confusion matrix | TensorFlow / Keras | `Churn_Modelling.csv` (included) |
+| 2 | [Convolutional Neural Network (CNN)](2.%20CNN/convolutional_neural_network.ipynb) | Supervised | Classify cat vs. dog images: image augmentation, convolution, pooling, single-image prediction | TensorFlow / Keras | Cats & dogs images ([Kaggle](https://www.kaggle.com/c/dogs-vs-cats)) |
 | 3 | [Recurrent Neural Network (LSTM)](3.%20RNN%20and%20LSTM/rnn.ipynb) | Supervised | Forecast Google stock price trends with a stacked LSTM using 60-day time steps | TensorFlow / Keras | `Google_Stock_Price_Train/Test.csv` (included) |
 | 4 | [Self-Organizing Map (SOM)](4.%20SOM/SOM.ipynb) | Unsupervised | Detect potential fraud in credit-card applications by visualising outliers on the map | MiniSom | `Credit_Card_Applications.csv` (included) |
-| 5 | [Restricted Boltzmann Machine](5.%20Boltzmann%20Machine/Boltzmann_Machine.ipynb) | Unsupervised | Build a movie recommender that predicts like / dislike ratings | PyTorch | MovieLens — downloaded by the notebook |
-| 6 | [Stacked AutoEncoder](6.%20AutoEncoders/AutoEncoders.ipynb) | Unsupervised | Predict movie ratings (1–5 stars) for a recommender system | PyTorch | MovieLens — downloaded by the notebook |
+| 5 | [Restricted Boltzmann Machine](5.%20Boltzmann%20Machine/Boltzmann_Machine.ipynb) | Unsupervised | Build a movie recommender that predicts like / dislike ratings | PyTorch | MovieLens: downloaded by the notebook |
+| 6 | [Stacked AutoEncoder](6.%20AutoEncoders/AutoEncoders.ipynb) | Unsupervised | Predict movie ratings (1–5 stars) for a recommender system | PyTorch | MovieLens: downloaded by the notebook |
 
 ---
 
@@ -47,7 +47,7 @@ Run each notebook from inside its folder. **Google Colab** is recommended for th
 
 ## 📌 About these notebooks
 
-I had the opportunity to go through the **Deep Learning A-Z** course (SuperDataScience) for my own understanding, and these notebooks are based on its code templates — I worked through and experimented with them to build my deep learning foundations.
+I had the opportunity to go through the **Deep Learning A-Z** course (SuperDataScience) for my own understanding, and these notebooks are based on its code templates. I worked through and experimented with them to build my deep learning foundations.
 
 🚧 **Coming soon:** complete, course-wise deep learning notebooks with my own detailed explanations and worked examples will be uploaded to this repository.
 
@@ -70,7 +70,7 @@ I had the opportunity to go through the **Deep Learning A-Z** course (SuperDataS
 
 ## 👨‍🏫 About the author
 
-**Ahmad Hassan** — AI/ML Engineer & Instructor with 5+ years of experience
+**Ahmad Hassan** | AI/ML Engineer & Instructor with 5+ years of experience
 1,500+ hours of live teaching, 100+ students mentored from medicine, business and engineering into data roles.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmadhassan--aiops.github.io-0EA5A4)](https://ahmadhassan-aiops.github.io)
